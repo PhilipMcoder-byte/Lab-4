@@ -1,3 +1,3 @@
 1.If I had to choose I would pick Insertion sort because insertion sort is faster in practice for small datasets.
 2.Yes, insertion sort is almost alweays faster than bubble sort, the reason being bubble sort requires massive number of swaps to move an element while insertion sort will simply shifts elements. Bascially inserction sort has the best of O(n) while basic bubble sort often runs O(n2) unless optimized.
-3.Bubble sort has an easier implemenation because it relies on very simple mecahnic of compare and swap unlike nsertion Sort, it doesn't require me to shift a sub-array of elements to make room for a new item or to manage a key variable.
+3.Bubble sort has an easier implemenation because it relies on very simple mecahnic of compare and swap unlike insertion Sort, it doesn't require me to shift a sub-array of elements to make room for a new item or to manage a key variable.
